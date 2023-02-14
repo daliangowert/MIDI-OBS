@@ -1,0 +1,7 @@
+[connection]
+host = "localhost"
+port = 4455
+password = "secret"
+
+[personal]
+scene_name = "Mensagem"
